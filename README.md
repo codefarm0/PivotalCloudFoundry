@@ -12,7 +12,6 @@
  * What is PCF
  * Why do we need PCF
  * Importance of PCF in microservices architecture
- * Pros and cons of using PCF
  * Other similar technology availble in the market
  
  Video - Coming soon.. 
@@ -50,15 +49,15 @@
  
  Video - Coming soon.. 
  
- ## Routing the application endpoints in PCF
- Following topics will be covered under this head- 
- 
- * What is routing?
- * How to do routing in PCF with the help of commands as well as PCF dashboard?
- 
+  ## What are buildpacks?
+  Following topics will be covered under this head- 
+  
+  * What is buidpack?
+  * Significance of buildpack in PCF
+  
  Video - Coming soon.. 
  
- ## Logging and scaling in PCF
+  ## Logging and scaling in PCF
  
  Following topics will be covered under this head- 
  
@@ -69,6 +68,15 @@
  * Commands for scaling in PCF
  
  Video - Coming soon.. 
+ 
+ ## Routing the application endpoints in PCF
+ Following topics will be covered under this head- 
+ 
+ * What is routing?
+ * How to do routing in PCF with the help of commands as well as PCF dashboard?
+ 
+ Video - Coming soon.. 
+ 
  
  ## What are services in PCF
  
@@ -91,12 +99,6 @@
  
  Video - Coming soon.. 
  
- ## What are buildpacks?
-  Following topics will be covered under this head- 
-  
-  * What is buidpack?
-  * Significance of buildpack in PCF
-  
- Video - Coming soon.. 
+
  
  
