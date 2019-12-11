@@ -5,6 +5,9 @@
  
  * Subscribe to get notified about the new videos > https://youtube.com/c/greenlearner
  
+ ## Course Plan
+ 
+ Watch video - https://youtu.be/g6XT-CZBB5c
  
  ## Introduction
  Following topics will be covered under this head- 
@@ -14,7 +17,7 @@
  * Importance of PCF in microservices architecture
  * Other similar technology availble in the market
  
- Video - Coming soon.. 
+ Video - https://youtu.be/0wqAUWk6KrY
  
  ## Environment setup for PCF
  Following topics will be covered under this head- 
