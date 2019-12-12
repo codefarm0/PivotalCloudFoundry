@@ -30,7 +30,7 @@
  * Introduction to PCF dashboard
  * What is PCF Dev client
  
- Video - Coming soon.. 
+ Video - https://youtu.be/okOv450mO7U
 
  ## Pushing first application to PCF 
  
