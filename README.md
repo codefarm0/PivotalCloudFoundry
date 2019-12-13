@@ -41,7 +41,7 @@
  * Basic commands
  * What is ORG and space in PCF
  
- Video - Coming soon.. 
+ Video - https://youtu.be/suforkXxR34
  
   ## How to use manifest file 
  
