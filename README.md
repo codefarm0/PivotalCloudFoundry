@@ -50,7 +50,7 @@
  * What is manifest (.mf) file
  * How can we use manifest in our case while pushing the application to PCF
  
- Video - Coming soon.. 
+ Video - https://youtu.be/SAMNzzopISw
  
   ## What are buildpacks?
   Following topics will be covered under this head- 
