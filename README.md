@@ -58,7 +58,7 @@
   * What is buidpack?
   * Significance of buildpack in PCF
   
- Video - Coming soon.. 
+ Video - https://youtu.be/Mo14JCWcotk
  
   ## Logging and scaling in PCF
  
