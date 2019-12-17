@@ -60,17 +60,36 @@
   
  Video - https://youtu.be/Mo14JCWcotk
  
+ ## What is scaling??
+ 
+ * Video - https://youtu.be/FjHhJ_9W66U
+ 
+  ## Auto Scaling in PCF
+ 
+ Following topics will be covered under this head- 
+ 
+ * What is scaling?
+ * Types of scaling
+ * Commands for scaling in PCF
+ 
+ Video - https://youtu.be/c6o8Qu_cUpg
+ 
   ## Logging and scaling in PCF
  
  Following topics will be covered under this head- 
  
  * What is logging and how to do it and view in PCF
  * Commands for logging in PCF
- * What is scaling?
- * Types of scaling
- * Commands for scaling in PCF
  
- Video - Coming soon.. 
+ Video - https://youtu.be/ROcWSxgQH4Y
+ 
+ ## Monitoring application - PCF Metrics
+ 
+ * Video - https://youtu.be/pma-i59koj0
+ 
+ ## Quickly learn PCF commands
+ 
+ * Video - https://youtu.be/AXy813-Xz4A
  
  ## Routing the application endpoints in PCF
  Following topics will be covered under this head- 
@@ -78,8 +97,31 @@
  * What is routing?
  * How to do routing in PCF with the help of commands as well as PCF dashboard?
  
+ Video - https://youtu.be/xRr_qM10KCc 
+ 
+ ## What is Blue Green Deployment - theory
+ 
+ * Video - https://youtu.be/3QUUXCTt7y8
+ 
+  ## Blue green deployment with PCF CLI (zero downtime)
+ 
+  Following topics will be covered under this head- 
+  
+ * What is blue-green deployment
+ * Significance of blue-green deployment in microservices world
+ * How to achieve zero downtime with the help of PCF
+ 
  Video - Coming soon.. 
  
+   ## Blue green deployment with PCF Dashboard (zero downtime)
+ 
+  Following topics will be covered under this head- 
+  
+ * What is blue-green deployment
+ * Significance of blue-green deployment in microservices world
+ * How to achieve zero downtime with the help of PCF
+ 
+ Video - Coming soon.. 
  
  ## What are services in PCF
  
@@ -92,15 +134,23 @@
   
   Video - Coming soon.. 
   
-  ## Blue green deployment with PCF (zero downtime)
- 
-  Following topics will be covered under this head- 
+  ## PCF service demo - config-server
   
- * What is blue-green deployment
- * Significance of blue-green deployment in microservices world
- * How to achieve zero downtime with the help of PCF
- 
- Video - Coming soon.. 
+  * Video - Coming soon
+  
+    ## PCF service demo - circuit-breaker
+  
+  * Video - Coming soon
+  
+    ## PCF service demo - mysql
+  
+  * Video - Coming soon
+  
+    ## PCF service demo - credhub
+  
+  * Video - Coming soon
+  
+
  
 
  
