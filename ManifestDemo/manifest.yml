@@ -1,0 +1,5 @@
+applications:
+- name: green-versionn2
+  path: ./green-version2.jar
+  memory: 700M
+  instances: 1
