@@ -1,5 +1,5 @@
 applications:
-- name: green-versionn2
-  path: ./green-version2.jar
+- name: PivotalConfigServerDemo
+  path: ./PivotalConfigServerDemo.jar
   memory: 700M
   instances: 1
